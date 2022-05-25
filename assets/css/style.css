@@ -100,3 +100,31 @@ logotipo. */
     }
 }
 /* 01-Login Final */
+/* 02-Email */
+.email-image {
+    width: 132px;
+    height: 132px;
+    border-radius: 50%;
+    background-color: var(--text-input-field);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 24px;
+}
+.email-image img {
+    width: 80px;
+}
+.resend {
+    font-size: var(--sm);
+}
+.resend span{
+    color: var(--very-light-pink);
+}
+.resend a{
+    color: var(--hospital-green);
+    text-decoration: none;
+}
+.form-container-email {
+    justify-items: center;
+}
+/* 02-Email Final */
