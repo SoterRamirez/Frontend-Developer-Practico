@@ -14,7 +14,7 @@ body{
     font-family: 'Quicksand', sans-serif;
     margin: 0;
 }
-/* 01-Login */
+/* 01-New Password */
 /* Establecer el ancho y el alto de la página de inicio de sesión al 100 % de la ventana gráfica y
 centrar los elementos en la cuadrícula. */
 .login {
@@ -98,8 +98,12 @@ logotipo. */
     .logo {
     display: block;
     }
+    .secondary-button{
+        position: relative;
+        margin-top: 200px;
+    }
 }
-/* 01-Login Final */
+/* 01-New Password Final */
 /* 02-Email */
 .email-image {
     width: 132px;
@@ -128,3 +132,25 @@ logotipo. */
     justify-items: center;
 }
 /* 02-Email Final */
+/* 03-Login */
+.form a{
+    color: var(--hospital-green);
+    font-size: var(--sm);
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 52px;
+}
+.input-email{
+    margin-bottom: 22px;
+}
+.secondary-button {
+    background-color: var(--white);
+    border-radius: 8px;
+    border: 1px solid var(--hospital-green);
+    color: var(--hospital-green);
+    width: 100%;
+    cursor: pointer;
+    font-size: var(--md);
+    font-weight: bold;
+    height: 50px;
+}
