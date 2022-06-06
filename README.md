@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <img src="./.github/app.gif" alt="Frontend Developer Practico" />
+    <img src="https://soterramirez.dev/src/images/logo.png" alt="Frontend Developer Practico" />
 
   &#xa0;
 
