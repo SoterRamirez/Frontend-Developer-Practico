@@ -46,14 +46,27 @@
 
 ## :dart: About ##
 
-Describe your project
+Pages Project
+:heavy_check_mark: [01-nueva-contraseña](https://soterramirez.github.io/Frontend-Developer-Practico/pages/01-nueva-contrase%C3%B1a.html);\
+:heavy_check_mark: [02-email](https://soterramirez.github.io/Frontend-Developer-Practico/pages/02-email.html);\
+:heavy_check_mark: [03-login](https://soterramirez.github.io/Frontend-Developer-Practico/pages/03-login.html);\
+:heavy_check_mark: [04-crear-y-admin-cuenta](https://soterramirez.github.io/Frontend-Developer-Practico/pages/04-crear-y-admin-cuenta.html);\
+:heavy_check_mark: [05-mi-cuenta](https://soterramirez.github.io/Frontend-Developer-Practico/pages/5-mi-cuenta.html);\
+:heavy_check_mark: [06-home](https://soterramirez.github.io/Frontend-Developer-Practico/pages/06-home.html);\
+:heavy_check_mark: [07-menu](https://soterramirez.github.io/Frontend-Developer-Practico/pages/07-menu.html);\
+:heavy_check_mark: [08-menu-mobile](https://soterramirez.github.io/Frontend-Developer-Practico/pages/08-menu-mobile.html);\
+:heavy_check_mark: [09-My-order](https://soterramirez.github.io/Frontend-Developer-Practico/pages/09-My-order.html);\
+:heavy_check_mark: [10-My-orders](https://soterramirez.github.io/Frontend-Developer-Practico/pages/10-My-orders.html);\
+:heavy_check_mark: [11-navbar](https://soterramirez.github.io/Frontend-Developer-Practico/pages/11-navbar.html);\
+:heavy_check_mark: [12-detalles-de-producto](https://soterramirez.github.io/Frontend-Developer-Practico/pages/12-detalles-de-producto.html);\
+:heavy_check_mark: [13-carrito-de-compra](https://soterramirez.github.io/Frontend-Developer-Practico/pages/13-carrito-de-compra.html);\
 
 ## :sparkles: Features ##
 
 :heavy_check_mark: <a href="https://www.figma.com/file/bcEVujIzJj5PNIWwF9pP2w/Platzi_YardSale">Figma Project</a> ;\
 :heavy_check_mark: Mobile;\
 :heavy_check_mark: Desktop;
-:heavy_check_mark: Page content modules;
+:heavy_check_mark: Pages content modules;
 
 ## :rocket: Technologies ##
 
