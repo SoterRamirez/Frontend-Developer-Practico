@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <!-- <a href="https://frontenddeveloperpractico.netlify.app">Demo</a> -->
+  <a href="https://soterramirez.github.io/Frontend-Developer-Practico/">Demo</a>
 </div>
 
 <h1 align="center">Frontend Developer Practico</h1>
@@ -27,13 +27,13 @@
 <!-- Status -->
 
 <h4 align="center">
-	🚧  Frontend Developer Practico 🚀 Under construction...  🚧
+	Frontend Developer Practico 🚀 Finish...
 </h4>
 
 <hr>
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#dart-about">About</a> &#xa0; | &#xa0;
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
@@ -50,9 +50,10 @@ Describe your project
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: <a href="https://www.figma.com/file/bcEVujIzJj5PNIWwF9pP2w/Platzi_YardSale">Figma Project</a> ;\
+:heavy_check_mark: Mobile;\
+:heavy_check_mark: Desktop;
+:heavy_check_mark: Page content modules;
 
 ## :rocket: Technologies ##
 
@@ -77,13 +78,8 @@ $ git clone https://github.com/SoterRamirez/frontend-developer-practico
 # Access
 $ cd frontend-developer-practico
 
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
+# Open HTML
+$ index.html
 ```
 
 ## :memo: License ##
